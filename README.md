@@ -1,6 +1,6 @@
 # Proteinity
 
-###Terms & conditions
+### Terms & conditions
 
 By downloading or using the app, these terms will
 automatically apply to you – you should make sure therefore
@@ -85,7 +85,7 @@ rights and licenses granted to you in these terms will end;
 (b) you must stop using the app, and (if needed) delete it
 from your device.
 
-**Changes to This Terms and Conditions
+### Changes to This Terms and Conditions
 
 I may update our Terms and Conditions
 from time to time. Thus, you are advised to review this page
@@ -95,7 +95,7 @@ Conditions on this page.
 
 These terms and conditions are effective as of 2020-10-15
 
-**Contact Us
+### Contact Us
 
 If you have any questions or suggestions about my
 Terms and Conditions, do not hesitate to contact me
