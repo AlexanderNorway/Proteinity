@@ -93,7 +93,7 @@ periodically for any changes. I will
 notify you of any changes by posting the new Terms and
 Conditions on this page.
 
-These terms and conditions are effective as of 2020-10-15
+**These terms and conditions are effective as of 2020-10-15**
 
 ### Contact Us
 
